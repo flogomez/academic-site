@@ -5,6 +5,8 @@ authors:
 superuser: true
 role: Assistant Professor of Education
 organizations:
+- name: Pontificia Universidad Católica de Chile
+  url: www.uc.cl
 - name: Stanford University
   url: ''
 bio: My research interests include distributed robotics, mobile computing and programmable
