@@ -74,13 +74,3 @@ icon = "skype"
 icon_pack = "fab"
 link = "skype:echo123?call"
 name = "Skype Me"
-[[contact_links]]
-icon = "keybase"
-icon_pack = "fab"
-link = "https://keybase.io/"
-name = "Chat on Keybase"
-[[contact_links]]
-icon = "comments"
-icon_pack = "fas"
-link = "https://discourse.gohugo.io"
-name = "Discuss on Forum"
