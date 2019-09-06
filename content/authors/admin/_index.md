@@ -17,8 +17,8 @@ interests:
 - Information Retrieval
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Education
+    institution: University of Michigan
     year: "2012"
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
