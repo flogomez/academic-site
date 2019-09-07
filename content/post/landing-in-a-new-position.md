@@ -1,6 +1,6 @@
 +++
 content = ""
-date = "2018-09-01T03:00:00+00:00"
+date = "2018-09-28T03:00:00+00:00"
 tags = ["change", "development", "education"]
 title = "Landing in a new position"
 
