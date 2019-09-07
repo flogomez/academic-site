@@ -3,39 +3,38 @@ name: Florencia Gómez Zaccarelli
 authors:
 - admin
 superuser: true
-role: Assistant Professor of Education
+role: Assistant Professor
 organizations:
 - name: Pontificia Universidad Católica de Chile
-  url: www.uc.cl
-- name: Stanford University
   url: ''
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include teacher education, professional development, and
+  facilitation of classroom discourse in science.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Teacher education
+- 'Teacher professional development '
+- Facilitation of classroom discourse in science and math
+- Collaboration in digital environments
 education:
   courses:
   - course: PhD in Education
     institution: University of Michigan
-    year: "2012"
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2009"
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: "2008"
+    year: "2015"
+  - course: MA in Educational Technologies
+    institution: Universidad de la Frontera, Temuco
+    year: "2006"
+  - course: Elementary Teacher Education
+    institution: Pontificia Universidad Católica de Chile
+    year: "1997"
 social:
 - icon: envelope
   icon_pack: fas
   link: "#contact"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/fgomezz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=JtZRo5gAAAAJ
 email: ''
 user_groups:
 - Researchers
