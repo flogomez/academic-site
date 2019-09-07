@@ -21,4 +21,5 @@ fields:
   default: []
   label: Tags
 pages:
+- content/post/3-months-later.md
 - content/post/landing-in-a-new-position.md
