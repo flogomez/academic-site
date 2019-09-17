@@ -21,6 +21,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/publication/learning-from-professional-development-a-case-study-of-the-challenges-of-enacting-productive-science-discourse-in-the-classroom.md
 - content/publication/impacts-of-a-practice-based-professional-development-program-on-elementary-teachers-facilitation-of-and-student-engagement-with-scientific-argumentation.md
 - content/publication/supporting-students-learning-practices-redefining-participation-and-engagement.md
 - content/project/improving-practice-together-project.md
