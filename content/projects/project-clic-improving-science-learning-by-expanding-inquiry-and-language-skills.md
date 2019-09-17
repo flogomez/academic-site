@@ -1,6 +1,5 @@
 +++
-date = ""
-draft = true
+date = "2019-01-01T03:00:00+00:00"
 tags = []
 title = "Project CLIC! Improving Science Learning by expanding Inquiry and Language Skills"
 
