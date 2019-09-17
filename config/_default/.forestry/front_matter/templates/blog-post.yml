@@ -21,6 +21,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/publication/supporting-students-learning-practices-redefining-participation-and-engagement.md
 - content/project/improving-practice-together-project.md
 - content/project/problem-solving-cycle-project.md
 - content/project/alianza-escuela-universidad-en-la-formación-de-educadores.md
