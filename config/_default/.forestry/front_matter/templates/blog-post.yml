@@ -21,6 +21,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/project/problem-solving-cycle-project.md
 - content/project/alianza-escuela-universidad-en-la-formación-de-educadores.md
 - content/project/project-clic-improving-science-learning-by-expanding-inquiry-and-language-skills.md
 - content/post/3-months-later.md
