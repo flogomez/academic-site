@@ -21,5 +21,6 @@ fields:
   default: []
   label: Tags
 pages:
+- content/projects/project-clic-improving-science-learning-by-expanding-inquiry-and-language-skills.md
 - content/post/3-months-later.md
 - content/post/landing-in-a-new-position.md
